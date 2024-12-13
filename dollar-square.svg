@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="666"
+   height="666"
+   viewBox="0 0 19.98 19.98"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="dollar-square.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.76986251"
+     inkscape:cx="198.08732"
+     inkscape:cy="535.16049"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g304"
+     transform="translate(-2,-2)">
+    <path
+       d="m 11.2519,8.07812 v 2.85998 l -1.01,-0.35 c -0.51003,-0.18 -0.82002,-0.35 -0.82002,-1.21998 0,-0.71 0.53,-1.29 1.18002,-1.29 z"
+       fill="#292d32"
+       id="path2" />
+    <path
+       d="m 14.58,14.6286 c 0,0.71 -0.53,1.29 -1.18,1.29 h -0.65 v -2.86 l 1.01,0.35 c 0.51,0.18 0.82,0.35 0.82,1.22 z"
+       fill="#292d32"
+       id="path4" />
+    <path
+       d="M 16.17581,2 H 7.80419 C 4.16783,2 2,4.16783 2,7.80419 v 8.37162 C 2,19.81217 4.16783,21.98 7.80419,21.98 h 8.37162 c 3.63636,0 5.80419,-2.16783 5.80419,-5.80419 V 7.80419 C 21.98,4.16783 19.81217,2 16.17581,2 Z m -1.92807,9.99 c 0.77922,0.26973 1.81818,0.83916 1.81818,2.62737 0,1.53846 -1.1988,2.78721 -2.67732,2.78721 H 12.73925 V 17.984 c 0,0.40959 -0.33966,0.74925 -0.74925,0.74925 -0.40959,0 -0.74925,-0.33966 -0.74925,-0.74925 v -0.57942 h -0.35964 c -1.63836,0 -2.96703,-1.38861 -2.96703,-3.08691 0,-0.40959 0.32967,-0.74925 0.74925,-0.74925 0.40959,0 0.74925,0.33966 0.74925,0.74925 0,0.87912 0.65934,1.58841 1.46853,1.58841 h 0.35964 V 12.51947 L 9.73226,11.99 C 8.95304,11.72027 7.91408,11.15084 7.91408,9.36263 c 0,-1.53846 1.1988,-2.78721 2.67732,-2.78721 h 0.64935 V 5.996 c 0,-0.40959 0.33966,-0.74925 0.74925,-0.74925 0.40959,0 0.74925,0.33966 0.74925,0.74925 v 0.57942 h 0.35964 c 1.63836,0 2.96703,1.38861 2.96703,3.08691 0,0.40959 -0.32967,0.74925 -0.74925,0.74925 -0.40959,0 -0.74925,-0.33966 -0.74925,-0.74925 0,-0.87912 -0.65934,-1.58841 -1.46853,-1.58841 h -0.35964 v 3.38661 z"
+       fill="#292d32"
+       id="path6"
+       style="stroke-width:0.999" />
+  </g>
+</svg>

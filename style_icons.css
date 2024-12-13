@@ -103,11 +103,6 @@ btn-attach
 
 .person-circle{display: inline-block; width:22px; height: 22px; background: url(person-circle.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-
-
-
-
-
 .btn-down{display: inline-block; width:22px; height: 22px; background: url(btn-down.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-help{display: inline-block; width:22px; height: 22px; background: url(btn-help.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-lock{display: inline-block; width:22px; height: 22px; background: url(btn-lock.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
@@ -129,6 +124,9 @@ btn-attach
 .external-link{display: inline-block; width:22px; height: 22px; background: url(external-link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .list-check{display: inline-block; width:32px; height: 32px; background: url(list-check.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 .sendmail{display: inline-block; width:32px; height: 32px; background: url(sendmail.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+
+.dollar-square{display: inline-block; width:22px; height: 22px; background: url(dollar-square.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+
 
 
 
