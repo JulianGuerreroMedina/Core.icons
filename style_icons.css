@@ -127,17 +127,16 @@ btn-attach
 
 .dollar-square{display: inline-block; width:22px; height: 22px; background: url(dollar-square.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.file-break{display: inline-block; width:22px; height: 22px; background: url(file-break.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.file-break-fill{display: inline-block; width:22px; height: 22px; background: url(file-break-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+
 
 
 
 .filetype-pdf{display: inline-block; width:32px; height: 32px; background: url(filetype-pdf.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 .filetype-xml{display: inline-block; width:32px; height: 32px; background: url(filetype-xml.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 .upload{display: inline-block; width:32px; height: 32px; background: url(upload.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-
-
-
-
-
+.folder-locked{display: inline-block; width:22px; height: 22px; background: url(folder-locked.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
 
 .notificacion_error{display: inline-block; width:64px; height: 64px; background: url(notificacion_error.svg) no-repeat center center; background-size: 64px 64px; border-radius: 14px; margin:0px 2px;}
 .notificacion_question{display: inline-block; width:64px; height: 64px; background: url(notificacion_question.svg) no-repeat center center; background-size: 64px 64px; border-radius: 14px; margin:0px 2px;}
