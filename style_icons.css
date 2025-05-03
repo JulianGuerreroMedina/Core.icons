@@ -78,6 +78,7 @@
 .btn-opciones{display: inline-block; width:32px; height: 32px; background: url(btn-opciones.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 
 .icon-gear{display: inline-block; width:22px; height: 22px; background: url(icon-gear.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.icon-gear-off{display: inline-block; width:22px; height: 22px; background: url(icon-gear-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
 .btn-play{display: inline-block; width:22px; height: 22px; background: url(btn-play.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-stop{display: inline-block; width:32px; height: 32px; background: url(btn-stop.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
