@@ -70,7 +70,7 @@
 
 
 
-
+.btn-home-black{display: inline-block; width:40px; height: 32px; background: url(btn-home-black.svg) no-repeat center center; background-size: 40px 32px; margin:0px 2px;}
 .btn-home{display: inline-block; width:40px; height: 32px; background: url(btn-home.svg) no-repeat center center; background-size: 40px 32px; margin:0px 2px;}
 .btn-hdd{display:inline-block; width:32px; height: 32px; background: url(btn-hdd.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 .btn-filtro{display: inline-block; width:32px; height: 32px; background: url(btn-filtro.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
