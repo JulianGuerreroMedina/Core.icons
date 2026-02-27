@@ -111,6 +111,8 @@ btn-attach
 .btn-left{display: inline-block; width:22px; height: 22px; background: url(btn-left.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-right{display: inline-block; width:22px; height: 22px; background: url(btn-right.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-plus{display: inline-block; width:22px; height: 22px; background: url(btn-plus.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-plus-black{display: inline-block; width:22px; height: 22px; background: url(btn-plus-black.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-plus-white{display: inline-block; width:22px; height: 22px; background: url(btn-plus-white.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-toggle-on{display: inline-block; width:22px; height: 22px; background: url(btn-toggle-on.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-toggle-off{display: inline-block; width:22px; height: 22px; background: url(btn-toggle-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-file-upload{display: inline-block; width:22px; height:22px; background: url(btn-file-upload.svg) no-repeat center center; background-size:22px 22px; margin:0px 2px;}
