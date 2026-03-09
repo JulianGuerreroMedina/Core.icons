@@ -13,7 +13,7 @@ Coleccion de iconos SVG/PNG y hoja de estilos utilitaria para usarlos como clase
 ## Uso en otros proyectos
 
 ```html
-<link rel="stylesheet" href="https://TU-DOMINIO/my_icons/style_icons.css" />
+<link rel="stylesheet" href="https://TU-DOMINIO/core.icons/style_icons.css" />
 <span class="btn-save" aria-hidden="true"></span>
 ```
 
