@@ -1,4 +1,4 @@
-# my_icons
+# Core.icons
 
 Coleccion de iconos SVG/PNG y hoja de estilos utilitaria para usarlos como clases CSS en proyectos web.
 
