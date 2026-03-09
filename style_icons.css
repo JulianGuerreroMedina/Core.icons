@@ -1,214 +1,115 @@
 
-.btn-calc{display:inline-block; width:22px; height: 22px; background: url(btn-calc.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-calc{display:inline-block; width:22px; height: 22px; background: url(icons/btn-calc.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.btn-folder-empty{display: inline-block; width:22px; height: 22px; background: url(icons/btn-folder-empty.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.btn-folder-empty{display: inline-block; width:22px; height: 22px; background: url(btn-folder-empty.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-folder-attach{display: inline-block; width:22px; height: 22px; background: url(icons/btn-folder-attach.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.btn-folder-attach{display: inline-block; width:22px; height: 22px; background: url(btn-folder-attach.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-folder{display: inline-block; width:22px; height: 22px; background: url(icons/btn-folder.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-folder-delete{display: inline-block; width:22px; height: 22px; background: url(icons/btn-folder-delete.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-folder-add{display: inline-block; width:22px; height: 22px; background: url(icons/btn-folder-add.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.calendar-cancel{display: inline-block; width:22px; height: 22px; background: url(icons/calendar-cancel.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.btn-exclamation{display: inline-block; width:22px; height: 22px; background: url(icons/notificacion_alert.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-power{display: inline-block; width:22px; height: 22px; background: url(icons/btn-power.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-camera{display: inline-block; width:22px; height: 22px; background: url(icons/btn-camera.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-repeat{display: inline-block; width:22px; height: 22px; background: url(icons/btn-repeat.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-edit{display: inline-block; width:22px; height: 22px; background: url(icons/btn-edit.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-save{display: inline-block; width:22px; height: 22px; background: url(icons/btn-save.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-save-off{display: inline-block; width:22px; height: 22px; background: url(icons/btn-save-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.btn-reply{display: inline-block; width:22px; height: 22px; background: url(icons/btn-reply.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-biblio{display: inline-block; width:22px; height: 22px; background: url(icons/btn-biblio.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-grafica{display: inline-block; width:22px; height: 22px; background: url(icons/btn-grafica.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-link{display: inline-block; width:22px; height: 22px; background: url(icons/btn-link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.btn-folder{display: inline-block; width:22px; height: 22px; background: url(btn-folder.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-folder-delete{display: inline-block; width:22px; height: 22px; background: url(btn-folder-delete.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-folder-add{display: inline-block; width:22px; height: 22px; background: url(btn-folder-add.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.calendar-cancel{display: inline-block; width:22px; height: 22px; background: url(calendar-cancel.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-user{display: inline-block; width:22px; height: 22px; background: url(icons/btn-user.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-user-plus{display: inline-block; width:22px; height: 22px; background: url(icons/btn-user-plus.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-users{display: inline-block; width:22px; height: 22px; background: url(icons/btn-users.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-calendar{display: inline-block; width:22px; height: 22px; background: url(icons/btn-calendar.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-calendar-date{display: inline-block; width:22px; height: 22px; background: url(icons/btn-calendar-date.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-calendar-check{display: inline-block; width:22px; height: 22px; background: url(icons/btn-calendar-check.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-printer{display: inline-block; width:22px; height: 22px; background: url(icons/btn-printer.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.pie-chart{display: inline-block; width:22px; height: 22px; background: url(icons/pie-chart.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-list-ol{display: inline-block; width:22px; height: 22px; background: url(icons/btn-list-ol.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.btn-selected-on{display: inline-block; width:35px; height: 18px; background: url(icons/btn-selected-on.svg) no-repeat center center; background-size: 35px 18px; margin:0px 2px;}
+.btn-selected-off{display: inline-block; width:35px; height: 18px; background: url(icons/btn-selected-off.svg) no-repeat center center; background-size: 35px 18px; margin:0px 2px;}
 
+.btn-delivery-on{display: inline-block; width:22px; height: 22px; background: url(icons/btn-delivery-on.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-delivery-off{display: inline-block; width:22px; height: 22px; background: url(icons/btn-delivery-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.trash{display: inline-block; width:22px; height: 22px; background: url(icons/trash.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-file-download{display: inline-block; width:22px; height: 22px; background: url(icons/btn-file-download.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-file-prev{display: inline-block; width:22px; height: 22px; background: url(icons/btn-file-prev.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.btn-check-some{display: inline-block; width:22px; height: 22px; background: url(icons/btn-check-some.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-check{display: inline-block; width:22px; height: 22px; background: url(icons/btn-check.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-uncheck{display: inline-block; width:22px; height: 22px; background: url(icons/btn-uncheck.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.square-check-filled{display: inline-block; width:22px; height: 22px; background: url(icons/square-check-filled.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.square-null{display: inline-block; width:22px; height: 22px; background: url(icons/square-null.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.square-check{display: inline-block; width:22px; height: 22px; background: url(icons/square-check.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.btn-exclamation{display: inline-block; width:22px; height: 22px; background: url(notificacion_alert.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-power{display: inline-block; width:22px; height: 22px; background: url(btn-power.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-camera{display: inline-block; width:22px; height: 22px; background: url(btn-camera.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-repeat{display: inline-block; width:22px; height: 22px; background: url(btn-repeat.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-edit{display: inline-block; width:22px; height: 22px; background: url(btn-edit.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-save{display: inline-block; width:22px; height: 22px; background: url(btn-save.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-save-off{display: inline-block; width:22px; height: 22px; background: url(btn-save-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-file{display: inline-block; width:22px; height: 22px; background: url(icons/btn-file.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-file-delete{display: inline-block; width:22px; height: 22px; background: url(icons/btn-file-delete.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-file-add{display: inline-block; width:22px; height: 22px; background: url(icons/btn-file-add.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.btn-reply{display: inline-block; width:22px; height: 22px; background: url(btn-reply.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-biblio{display: inline-block; width:22px; height: 22px; background: url(btn-biblio.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-grafica{display: inline-block; width:22px; height: 22px; background: url(btn-grafica.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-link{display: inline-block; width:22px; height: 22px; background: url(btn-link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.external-link{display: inline-block; width:22px; height: 22px; background: url(external-link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-home{display: inline-block; width:40px; height: 32px; background: url(icons/btn-home.svg) no-repeat center center; background-size: 40px 32px; margin:0px 2px;}
+.btn-hdd{display:inline-block; width:32px; height: 32px; background: url(icons/btn-hdd.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+.btn-filtro{display: inline-block; width:32px; height: 32px; background: url(icons/btn-filtro.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+.btn-opciones-w{display: inline-block; width:40px; height: 32px; background: url(icons/btn-opciones-w.svg) no-repeat center center; background-size: 40px 32px; margin:0px 2px;}
+.btn-opciones{display: inline-block; width:32px; height: 32px; background: url(icons/btn-opciones.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 
-.btn-user{display: inline-block; width:22px; height: 22px; background: url(btn-user.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-user-plus{display: inline-block; width:22px; height: 22px; background: url(btn-user-plus.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-users{display: inline-block; width:22px; height: 22px; background: url(btn-users.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-calendar{display: inline-block; width:22px; height: 22px; background: url(btn-calendar.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-calendar-date{display: inline-block; width:22px; height: 22px; background: url(btn-calendar-date.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-calendar-check{display: inline-block; width:22px; height: 22px; background: url(btn-calendar-check.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-printer{display: inline-block; width:22px; height: 22px; background: url(btn-printer.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.pie-chart{display: inline-block; width:22px; height: 22px; background: url(pie-chart.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-list-ol{display: inline-block; width:22px; height: 22px; background: url(btn-list-ol.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.list-check{display: inline-block; width:22px; height: 22px; background: url(list-check.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.icon-gear{display: inline-block; width:22px; height: 22px; background: url(icons/icon-gear.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.icon-gear-off{display: inline-block; width:22px; height: 22px; background: url(icons/icon-gear-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.btn-selected-on{display: inline-block; width:35px; height: 18px; background: url(btn-selected-on.svg) no-repeat center center; background-size: 35px 18px; margin:0px 2px;}
-.btn-selected-off{display: inline-block; width:35px; height: 18px; background: url(btn-selected-off.svg) no-repeat center center; background-size: 35px 18px; margin:0px 2px;}
+.btn-play{display: inline-block; width:22px; height: 22px; background: url(icons/btn-play.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-stop{display: inline-block; width:32px; height: 32px; background: url(icons/btn-stop.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 
-.btn-delivery-on{display: inline-block; width:22px; height: 22px; background: url(btn-delivery-on.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-delivery-off{display: inline-block; width:22px; height: 22px; background: url(btn-delivery-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.trash{display: inline-block; width:22px; height: 22px; background: url(trash.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-file-download{display: inline-block; width:22px; height: 22px; background: url(btn-file-download.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-file-prev{display: inline-block; width:22px; height: 22px; background: url(btn-file-prev.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-search{display: inline-block; width:22px; height: 22px; background: url(icons/btn-search.svg) no-repeat center right; background-size: 22px 22px;  margin:0px 2px;}
 
+.btn-clock{display: inline-block; width:22px; height: 22px; background: url(icons/btn-clock.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-bd{display: inline-block; width:22px; height: 22px; background: url(icons/btn-bd.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.btn-bell-red{display: inline-block; width:22px; height: 22px; background: url(icons/btn-bell-red.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-bell-yellow{display: inline-block; width:22px; height: 22px; background: url(icons/btn-bell-yellow.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.btn-check-some{display: inline-block; width:22px; height: 22px; background: url(btn-check-some.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-check{display: inline-block; width:22px; height: 22px; background: url(btn-check.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-uncheck{display: inline-block; width:22px; height: 22px; background: url(btn-uncheck.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-shuffle{display: inline-block; width:22px; height: 22px; background: url(icons/btn-shuffle.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-slider{display: inline-block; width:22px; height: 22px; background: url(icons/btn-slider.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.square-check-filled{display: inline-block; width:22px; height: 22px; background: url(square-check-filled.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.square-null{display: inline-block; width:22px; height: 22px; background: url(square-null.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.square-check{display: inline-block; width:22px; height: 22px; background: url(square-check.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.person-circle{display: inline-block; width:22px; height: 22px; background: url(icons/person-circle.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.btn-down{display: inline-block; width:22px; height: 22px; background: url(icons/btn-down.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-help{display: inline-block; width:22px; height: 22px; background: url(icons/btn-help.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-lock{display: inline-block; width:22px; height: 22px; background: url(icons/btn-lock.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-up{display: inline-block; width:22px; height: 22px; background: url(icons/btn-up.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-left{display: inline-block; width:22px; height: 22px; background: url(icons/btn-left.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-right{display: inline-block; width:22px; height: 22px; background: url(icons/btn-right.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-plus{display: inline-block; width:22px; height: 22px; background: url(icons/btn-plus.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-plus-black{display: inline-block; width:22px; height: 22px; background: url(icons/btn-plus-black.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-plus-white{display: inline-block; width:22px; height: 22px; background: url(icons/btn-plus-white.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-toggle-on{display: inline-block; width:22px; height: 22px; background: url(icons/btn-toggle-on.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-toggle-off{display: inline-block; width:22px; height: 22px; background: url(icons/btn-toggle-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-file-upload{display: inline-block; width:22px; height:22px; background: url(icons/btn-file-upload.svg) no-repeat center center; background-size:22px 22px; margin:0px 2px;}
+.btn-x{display: inline-block; width:22px; height: 22px; background: url(icons/btn-x.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.ico-loading{display:inline-block; width:32px; height: 32px; background: url(icons/ico-loading.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+.pc-display{display: inline-block; width:22px; height: 22px; background: url(icons/pc-display.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.ico-php{display: inline-block; width:41px; height: 22px; background: url(icons/ico-php.svg) no-repeat center center; background-size: 41px 22px; margin:0px 2px;}
+.default-avatar{display: inline-block; width:50px; height: 50px; background: url(icons/default-avatar.svg) no-repeat center center; background-size: 50px 50px; border-radius: 14px; margin:0px 2px;}
+.ico-cake{display: inline-block; width:22px; height: 22px; background: url(icons/ico-cake.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.external-link{display: inline-block; width:22px; height: 22px; background: url(icons/external-link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.list-check{display: inline-block; width:32px; height: 32px; background: url(icons/list-check.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 
+.dollar-square{display: inline-block; width:22px; height: 22px; background: url(icons/dollar-square.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
-.btn-file{display: inline-block; width:22px; height: 22px; background: url(btn-file.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-file-delete{display: inline-block; width:22px; height: 22px; background: url(btn-file-delete.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-file-add{display: inline-block; width:22px; height: 22px; background: url(btn-file-add.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.file-break{display: inline-block; width:22px; height: 22px; background: url(icons/file-break.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.file-break-fill{display: inline-block; width:22px; height: 22px; background: url(icons/file-break-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.folder-locked{display: inline-block; width:22px; height: 22px; background: url(icons/folder-locked.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
 
-
-.btn-home-black{display: inline-block; width:40px; height: 32px; background: url(btn-home-black.svg) no-repeat center center; background-size: 40px 32px; margin:0px 2px;}
-.btn-home{display: inline-block; width:40px; height: 32px; background: url(btn-home.svg) no-repeat center center; background-size: 40px 32px; margin:0px 2px;}
-.btn-hdd{display:inline-block; width:32px; height: 32px; background: url(btn-hdd.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-.btn-filtro{display: inline-block; width:32px; height: 32px; background: url(btn-filtro.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-.btn-opciones-w{display: inline-block; width:40px; height: 32px; background: url(btn-opciones-w.svg) no-repeat center center; background-size: 40px 32px; margin:0px 2px;}
-.btn-opciones{display: inline-block; width:32px; height: 32px; background: url(btn-opciones.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-
-.icon-gear{display: inline-block; width:22px; height: 22px; background: url(icon-gear.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.icon-gear-off{display: inline-block; width:22px; height: 22px; background: url(icon-gear-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-.btn-play{display: inline-block; width:22px; height: 22px; background: url(btn-play.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-stop{display: inline-block; width:32px; height: 32px; background: url(btn-stop.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-
-
-btn-attach
-
-
-.file-pdf-min{display: inline-block; width:22px; height: 22px; background: url(file-pdf.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-
-.btn-search{background: url(btn-search.svg) no-repeat center right; background-size: 22px 22px;  margin:0px 2px;}
-
-
-.btn-clock{display: inline-block; width:22px; height: 22px; background: url(btn-clock.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-bd{display: inline-block; width:22px; height: 22px; background: url(btn-bd.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-.btn-bell-red{display: inline-block; width:22px; height: 22px; background: url(btn-bell-red.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-bell-yellow{display: inline-block; width:22px; height: 22px; background: url(btn-bell-yellow.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-.btn-shuffle{display: inline-block; width:22px; height: 22px; background: url(btn-shuffle.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-slider{display: inline-block; width:22px; height: 22px; background: url(btn-slider.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-.person-circle{display: inline-block; width:22px; height: 22px; background: url(person-circle.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-.btn-down{display: inline-block; width:22px; height: 22px; background: url(btn-down.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-help{display: inline-block; width:22px; height: 22px; background: url(btn-help.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-lock{display: inline-block; width:22px; height: 22px; background: url(btn-lock.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-up{display: inline-block; width:22px; height: 22px; background: url(btn-up.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-left{display: inline-block; width:22px; height: 22px; background: url(btn-left.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-right{display: inline-block; width:22px; height: 22px; background: url(btn-right.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-plus{display: inline-block; width:22px; height: 22px; background: url(btn-plus.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-plus-black{display: inline-block; width:22px; height: 22px; background: url(btn-plus-black.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-plus-white{display: inline-block; width:22px; height: 22px; background: url(btn-plus-white.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-toggle-on{display: inline-block; width:22px; height: 22px; background: url(btn-toggle-on.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-toggle-off{display: inline-block; width:22px; height: 22px; background: url(btn-toggle-off.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.btn-file-upload{display: inline-block; width:22px; height:22px; background: url(btn-file-upload.svg) no-repeat center center; background-size:22px 22px; margin:0px 2px;}
-.btn-x{display: inline-block; width:22px; height: 22px; background: url(btn-x.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.ico-loading{display:inline-block; width:32px; height: 32px; background: url(ico-loading.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-.pc-display{display: inline-block; width:22px; height: 22px; background: url(pc-display.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.ico-php{display: inline-block; width:41px; height: 22px; background: url(ico-php.svg) no-repeat center center; background-size: 41px 22px; margin:0px 2px;}
-.default-avatar{display: inline-block; width:50px; height: 50px; background: url(default-avatar.svg) no-repeat center center; background-size: 50px 50px; border-radius: 14px; margin:0px 2px;}
-.ico-cake{display: inline-block; width:22px; height: 22px; background: url(ico-cake.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-.ico-link{display: inline-block; width:22px; height: 22px; background: url(link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.external-link{display: inline-block; width:22px; height: 22px; background: url(external-link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.list-check{display: inline-block; width:32px; height: 32px; background: url(list-check.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-.sendmail{display: inline-block; width:32px; height: 32px; background: url(sendmail.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-
-.dollar-square{display: inline-block; width:22px; height: 22px; background: url(dollar-square.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-.file-break{display: inline-block; width:22px; height: 22px; background: url(file-break.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-.file-break-fill{display: inline-block; width:22px; height: 22px; background: url(file-break-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
-
-
-
-
-.filetype-pdf{display: inline-block; width:32px; height: 32px; background: url(filetype-pdf.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-.filetype-xml{display: inline-block; width:32px; height: 32px; background: url(filetype-xml.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-.upload{display: inline-block; width:32px; height: 32px; background: url(upload.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
-.folder-locked{display: inline-block; width:22px; height: 22px; background: url(folder-locked.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
-
-.geo-alt{display: inline-block; width:22px; height: 22px; background: url(geo-alt.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
-.geo-alt-fill{display: inline-block; width:22px; height: 22px; background: url(geo-alt-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
-.telephone-fill{display: inline-block; width:22px; height: 22px; background: url(telephone-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
-.whatsapp{display: inline-block; width:22px; height: 22px; background: url(whatsapp.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
-.id-user{display: inline-block; width:22px; height: 22px; background: url(id-user.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
-
-
-
-
-
-.notificacion_error{display: inline-block; width:64px; height: 64px; background: url(notificacion_error.svg) no-repeat center center; background-size: 64px 64px; border-radius: 14px; margin:0px 2px;}
-.notificacion_question{display: inline-block; width:64px; height: 64px; background: url(notificacion_question.svg) no-repeat center center; background-size: 64px 64px; border-radius: 14px; margin:0px 2px;}
-.notificacion_alert{display: inline-block; width:64px; height: 64px; background: url(notificacion_alert.svg) no-repeat center center; background-size: 64px 64px; border-radius: 14px; margin:0px 2px;}
-.notificacion_ok{display: inline-block; width:64px; height: 64px; background: url(notificacion_ok.svg) no-repeat center center; background-size: 64px 64px; border-radius: 14px; margin:0px 2px;}
-           
-            
-.file-audio{display: inline-block; width:120px; height: 120px; background: url(file-audio.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-doc{display: inline-block; width:120px; height: 120px; background: url(file-doc.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-email{display: inline-block; width:120px; height: 120px; background: url(file-email.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-img{display: inline-block; width:120px; height: 120px; background: url(file-img.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-pdf{display: inline-block; width:120px; height: 120px; background: url(file-pdf.svg) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-pps{display: inline-block; width:120px; height: 120px; background: url(file-pps.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-rar{display: inline-block; width:120px; height: 120px; background: url(file-rar.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-video{display: inline-block; width:120px; height: 120px; background: url(file-video.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-x{display: inline-block; width:120px; height: 120px; background: url(file-x.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-xls{display: inline-block; width:120px; height: 120px; background: url(file-xls.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-.file-zip{display: inline-block; width:120px; height: 120px; background: url(file-zip.png) no-repeat center center; background-size: 120px 120px; margin:0px 2px;}
-
-
-/*----------------SEMAFORO---------------------*/
-.cumplio0{background-position: 0px 0px;}
-.cumplio1{background-position: -96px 0px;}
-.cumplio2{background-position: -128px 0px;}
-.cumplio3{background-position: -32px 0px;}
-.cumplio4{background-position: -64px 0px;}
-.cumplio5{background-position: -160px 0px;}
-.semaforo{font-size:0px;}
-/*----------------SEMAFORO---------------------*/
-
-
-/*----------------SEMAFORO---------------------*/
-.a-tiempo, .ya-cumplio, .no-cumplio, .por-vencer, .vence-hoy, .cumplio-despues 
-{
-    display:block;
-    width:22px;
-    height: 22px; 
-    background: url(semaforo.svg) no-repeat;
-    margin:2px; 
-    margin-right: auto; 
-    margin-left: auto; 
-    text-align:center; 
-}
-
-.a-tiempo{background-position: 0px 0px;}
-.ya-cumplio{background-position: -66px 0px;}
-.no-cumplio{background-position: -88px 0px;}
-.por-vencer{background-position: -22px 0px;}
-.vence-hoy{background-position: -44px 0px;}
-.cumplio-despues{background-position: -110px 0px;}
-.semaforo{font-size:0px;}
-/*----------------SEMAFORO---------------------*/
-
-
-/*
-a-tiempo cumplio0
-ya-cumplio cumplio1
-no-cumplio cumplio2
-por-vencer cumplio3 
-vence-hoy cumplio4
-cumplio-despues cumplio5
-*/      
+.geo-alt{display: inline-block; width:22px; height: 22px; background: url(icons/geo-alt.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
+.geo-alt-fill{display: inline-block; width:22px; height: 22px; background: url(icons/geo-alt-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
+.telephone-fill{display: inline-block; width:22px; height: 22px; background: url(icons/telephone-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
+.whatsapp{display: inline-block; width:22px; height: 22px; background: url(icons/whatsapp.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
+.id-user{display: inline-block; width:22px; height: 22px; background: url(icons/id-user.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}

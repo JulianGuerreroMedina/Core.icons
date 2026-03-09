@@ -1,0 +1,539 @@
+{
+  "generated_from": "style_icons.css",
+  "items": [
+    {
+      "class": "btn-calc",
+      "asset": "icons/btn-calc.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-folder-empty",
+      "asset": "icons/btn-folder-empty.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-folder-attach",
+      "asset": "icons/btn-folder-attach.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-folder",
+      "asset": "icons/btn-folder.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-folder-delete",
+      "asset": "icons/btn-folder-delete.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-folder-add",
+      "asset": "icons/btn-folder-add.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "calendar-cancel",
+      "asset": "icons/calendar-cancel.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-exclamation",
+      "asset": "icons/notificacion_alert.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-power",
+      "asset": "icons/btn-power.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-camera",
+      "asset": "icons/btn-camera.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-repeat",
+      "asset": "icons/btn-repeat.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-edit",
+      "asset": "icons/btn-edit.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-save",
+      "asset": "icons/btn-save.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-save-off",
+      "asset": "icons/btn-save-off.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-reply",
+      "asset": "icons/btn-reply.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-biblio",
+      "asset": "icons/btn-biblio.png",
+      "category": "icons",
+      "format": "png"
+    },
+    {
+      "class": "btn-grafica",
+      "asset": "icons/btn-grafica.png",
+      "category": "icons",
+      "format": "png"
+    },
+    {
+      "class": "btn-link",
+      "asset": "icons/btn-link.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-user",
+      "asset": "icons/btn-user.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-user-plus",
+      "asset": "icons/btn-user-plus.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-users",
+      "asset": "icons/btn-users.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-calendar",
+      "asset": "icons/btn-calendar.png",
+      "category": "icons",
+      "format": "png"
+    },
+    {
+      "class": "btn-calendar-date",
+      "asset": "icons/btn-calendar-date.png",
+      "category": "icons",
+      "format": "png"
+    },
+    {
+      "class": "btn-calendar-check",
+      "asset": "icons/btn-calendar-check.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-printer",
+      "asset": "icons/btn-printer.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "pie-chart",
+      "asset": "icons/pie-chart.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-list-ol",
+      "asset": "icons/btn-list-ol.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-selected-on",
+      "asset": "icons/btn-selected-on.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-selected-off",
+      "asset": "icons/btn-selected-off.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-delivery-on",
+      "asset": "icons/btn-delivery-on.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-delivery-off",
+      "asset": "icons/btn-delivery-off.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "trash",
+      "asset": "icons/trash.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-file-download",
+      "asset": "icons/btn-file-download.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-file-prev",
+      "asset": "icons/btn-file-prev.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-check-some",
+      "asset": "icons/btn-check-some.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-check",
+      "asset": "icons/btn-check.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-uncheck",
+      "asset": "icons/btn-uncheck.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "square-check-filled",
+      "asset": "icons/square-check-filled.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "square-null",
+      "asset": "icons/square-null.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "square-check",
+      "asset": "icons/square-check.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-file",
+      "asset": "icons/btn-file.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-file-delete",
+      "asset": "icons/btn-file-delete.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-file-add",
+      "asset": "icons/btn-file-add.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-home",
+      "asset": "icons/btn-home.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-hdd",
+      "asset": "icons/btn-hdd.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-filtro",
+      "asset": "icons/btn-filtro.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-opciones-w",
+      "asset": "icons/btn-opciones-w.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-opciones",
+      "asset": "icons/btn-opciones.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "icon-gear",
+      "asset": "icons/icon-gear.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "icon-gear-off",
+      "asset": "icons/icon-gear-off.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-play",
+      "asset": "icons/btn-play.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-stop",
+      "asset": "icons/btn-stop.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-search",
+      "asset": "icons/btn-search.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-clock",
+      "asset": "icons/btn-clock.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-bd",
+      "asset": "icons/btn-bd.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-bell-red",
+      "asset": "icons/btn-bell-red.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-bell-yellow",
+      "asset": "icons/btn-bell-yellow.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-shuffle",
+      "asset": "icons/btn-shuffle.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-slider",
+      "asset": "icons/btn-slider.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "person-circle",
+      "asset": "icons/person-circle.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-down",
+      "asset": "icons/btn-down.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-help",
+      "asset": "icons/btn-help.png",
+      "category": "icons",
+      "format": "png"
+    },
+    {
+      "class": "btn-lock",
+      "asset": "icons/btn-lock.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-up",
+      "asset": "icons/btn-up.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-left",
+      "asset": "icons/btn-left.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-right",
+      "asset": "icons/btn-right.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-plus",
+      "asset": "icons/btn-plus.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-plus-black",
+      "asset": "icons/btn-plus-black.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-plus-white",
+      "asset": "icons/btn-plus-white.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-toggle-on",
+      "asset": "icons/btn-toggle-on.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-toggle-off",
+      "asset": "icons/btn-toggle-off.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-file-upload",
+      "asset": "icons/btn-file-upload.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "btn-x",
+      "asset": "icons/btn-x.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "ico-loading",
+      "asset": "icons/ico-loading.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "pc-display",
+      "asset": "icons/pc-display.png",
+      "category": "icons",
+      "format": "png"
+    },
+    {
+      "class": "ico-php",
+      "asset": "icons/ico-php.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "default-avatar",
+      "asset": "icons/default-avatar.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "ico-cake",
+      "asset": "icons/ico-cake.png",
+      "category": "icons",
+      "format": "png"
+    },
+    {
+      "class": "external-link",
+      "asset": "icons/external-link.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "list-check",
+      "asset": "icons/list-check.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "dollar-square",
+      "asset": "icons/dollar-square.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "file-break",
+      "asset": "icons/file-break.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "file-break-fill",
+      "asset": "icons/file-break-fill.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "folder-locked",
+      "asset": "icons/folder-locked.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "geo-alt",
+      "asset": "icons/geo-alt.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "geo-alt-fill",
+      "asset": "icons/geo-alt-fill.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "telephone-fill",
+      "asset": "icons/telephone-fill.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "whatsapp",
+      "asset": "icons/whatsapp.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "id-user",
+      "asset": "icons/id-user.svg",
+      "category": "icons",
+      "format": "svg"
+    }
+  ]
+}

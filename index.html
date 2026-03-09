@@ -6,23 +6,175 @@
         <meta name="robots" content="noindex,nofollow"/>
         <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="style_icons.css">
 
         <style type="text/css">
-            .contenedor-iconos {float:left;  width: 99%;  margin-right: auto; margin-left: auto; text-align: center; margin-top:100px; margin-bottom:100px;}
-            .contenedor-iconos .iconos{background-color: #898888; float:left; display:block;  width: 170px; height: 150px; margin:10px; padding:10px; border: solid 1px #C1C1C1; border-radius: 4px; text-align: center; border: solid 2px #fff;}
-            .contenedor-files{float:left;  width: 99%;  margin-right: auto; margin-left: auto; text-align: center; margin-top:100px; margin-bottom:100px;}
-            .contenedor-files .iconos{float:left; display:block;  width: 200px; height: 200px; margin:10px; padding:10px; border: solid 1px #C1C1C1; border-radius: 4px; text-align: center; border: solid 2px #fff;}
-            .iconos:hover{border: solid 2px #000;}
-            .iconos span{ margin-top:25px;}
-            .puntero { cursor: pointer; padding:5px; margin:5px; display:inline-block;}
+            :root {
+                --bg: #f4f5ef;
+                --panel: rgba(255, 255, 255, 0.82);
+                --panel-dark: #142131;
+                --text: #0f1720;
+                --muted: #4b5563;
+                --stroke: rgba(15, 23, 32, 0.12);
+                --accent: #c2410c;
+                --accent-soft: #fed7aa;
+                --shadow: 0 14px 35px rgba(20, 33, 49, 0.12);
+                --radius: 16px;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            body {
+                margin: 0;
+                color: var(--text);
+                font-family: "Space Grotesk", sans-serif;
+                background:
+                    radial-gradient(circle at 5% 5%, #f7eed6 0%, transparent 38%),
+                    radial-gradient(circle at 95% 15%, #dbeafe 0%, transparent 42%),
+                    linear-gradient(135deg, #eef3f8 0%, #fdfbf6 100%);
+                min-height: 100vh;
+            }
+
+            .catalogo {
+                width: min(1280px, 92vw);
+                margin: 0 auto;
+                padding: 34px 0 72px;
+            }
+
+            .hero {
+                background: var(--panel);
+                border: 1px solid var(--stroke);
+                border-radius: 24px;
+                box-shadow: var(--shadow);
+                padding: 28px 28px 20px;
+                backdrop-filter: blur(8px);
+            }
+
+            .hero h1 {
+                margin: 0;
+                font-size: clamp(1.8rem, 4vw, 2.9rem);
+                line-height: 1;
+                letter-spacing: -0.03em;
+            }
+
+            .hero p {
+                margin: 12px 0 0;
+                color: var(--muted);
+                font-size: 1rem;
+                max-width: 78ch;
+            }
+
+            .seccion {
+                margin-top: 32px;
+            }
+
+            .seccion h2 {
+                margin: 0 0 14px;
+                padding-left: 10px;
+                border-left: 6px solid var(--accent);
+                font-size: clamp(1rem, 2.2vw, 1.35rem);
+                letter-spacing: 0.04em;
+                text-transform: uppercase;
+            }
+
+            .contenedor-iconos,
+            .contenedor-files {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(155px, 1fr));
+                gap: 14px;
+                margin: 0;
+                width: 100%;
+            }
+
+            .iconos {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                min-height: 140px;
+                padding: 12px 10px;
+                border-radius: var(--radius);
+                border: 1px solid var(--stroke);
+                background: var(--panel);
+                box-shadow: 0 4px 16px rgba(20, 33, 49, 0.05);
+                transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+                animation: reveal 360ms ease both;
+            }
+
+            .contenedor-files .iconos {
+                min-height: 210px;
+            }
+
+            .iconos:hover {
+                transform: translateY(-4px);
+                border-color: rgba(194, 65, 12, 0.4);
+                box-shadow: 0 12px 24px rgba(194, 65, 12, 0.14);
+            }
+
+            .iconos span {
+                margin: 0 0 12px;
+            }
+
+            .iconos p {
+                margin: 0;
+                font-family: "JetBrains Mono", monospace;
+                color: var(--muted);
+                font-size: 0.78rem;
+                line-height: 1.25;
+                text-align: center;
+                word-break: break-word;
+            }
+
+            .iconos.bg {
+                background: linear-gradient(180deg, var(--panel-dark), #0d1727);
+                border-color: rgba(255, 255, 255, 0.25);
+            }
+
+            .iconos.bg p {
+                color: #cbd5e1;
+            }
+
+            @keyframes reveal {
+                from {
+                    opacity: 0;
+                    transform: translateY(6px);
+                }
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+            }
+
+            @media (max-width: 700px) {
+                .catalogo {
+                    width: min(1280px, 95vw);
+                    padding-top: 18px;
+                }
+
+                .hero {
+                    padding: 20px 18px 16px;
+                }
+
+                .seccion {
+                    margin-top: 22px;
+                }
+            }
         </style>
         </head>
     <body>
-        <h1>Mis Iconos</h1>
+        <main class="catalogo">
+            <header class="hero">
+                <h1>Biblioteca de Iconos</h1>
+                <p>Coleccion visual de recursos SVG/PNG para reutilizar en tus proyectos. Cada tarjeta muestra la clase CSS exacta para usar el icono.</p>
+            </header>
 
-
-
+        <section class="seccion">
+            <h2>Iconos Generales</h2>
         <div class="contenedor-iconos">
             <div class="iconos"><span class="btn-file" title="btn-file"></span><p>btn-file</p></div>
             <div class="iconos"><span class="btn-file-delete" title="btn-file-delete"></span><p>btn-file-delete</p></div>
@@ -52,7 +204,7 @@
             <div class="iconos"><span class="btn-bd" title="btn-bd"></span><p>btn-bd</p></div>
             
             <div class="iconos"><span class="btn-bell-red" title="btn-bell-red"></span><p>btn-bell-red</p></div>
-            <div class="iconos"><span class="btn-bell-yellow" titlebtn-bell-yellow"></span><p>btn-bell-yellow</p></div>
+            <div class="iconos"><span class="btn-bell-yellow" title="btn-bell-yellow"></span><p>btn-bell-yellow</p></div>
             
             
             <div class="iconos"><span class="btn-biblio" title="btn-biblio"></span><p>btn-biblio</p></div>
@@ -101,7 +253,7 @@
 
             <div class="iconos"><span class="btn-plus" title="btn-plus"></span><p>btn-plus</p></div>
             <div class="iconos"><span class="btn-plus-black" title="btn-plus-black"></span><p>btn-plus-black</p></div>
-            <div class="iconos"><span class="btn-plus-white" title="btn-plus-white"></span><p>btn-plus-white</p></div>
+            <div class="iconos bg"><span class="btn-plus-white" title="btn-plus-white"></span><p>btn-plus-white</p></div>
 
 
             <div class="iconos"><span class="btn-power" title="btn-power"></span><p>btn-power</p></div>
@@ -166,44 +318,14 @@
             <div class="iconos"><span class="geo-alt" title="geo-alt"></span><p>geo-alt</p></div>
 
             <div class="iconos"><span class="telephone-fill" title="telephone-fill"></span><p>telephone-fill</p></div>
-            <div class="iconos"><span class="whatsapp" title="whatsapp"></span><p></p>whatsapp</p></div>
+            <div class="iconos"><span class="whatsapp" title="whatsapp"></span><p>whatsapp</p></div>
 
             <div class="iconos"><span class="id-user" title="id-user"></span><p>id-user</p></div>
 
-
-
-
         </div>
-        
-        <div class="contenedor-iconos">
-            <div class="iconos"><span class="notificacion_error" title="notificacion_error"></span><p>notificacion_error</p></div>
-            <div class="iconos"><span class="notificacion_question" title="notificacion_question"></span><p>notificacion_question</p></div>
-            <div class="iconos"><span class="notificacion_alert" title="notificacion_alert"></span><p>notificacion_alert</p></div>
-            <div class="iconos"><span class="notificacion_ok" title="notificacion_ok"></span><p>notificacion_ok</p></div>
-        </div>
-        
-        <div class="contenedor-iconos">
-            <div class="iconos"><span class="a-tiempo" title="a-tiempo"></span><p>a-tiempo</p></div>
-            <div class="iconos"><span class="ya-cumplio" title="ya-cumplio"></span><p>ya-cumplio</p></div>
-            <div class="iconos"><span class="no-cumplio" title="no-cumplio"></span><p>no-cumplio</p></div>
-            <div class="iconos"><span class="por-vencer" title="por-vencer"></span><p>por-vencer</p></div>
-            <div class="iconos"><span class="vence-hoy" title="vence-hoy"></span><p>vence-hoy</p></div>
-            <div class="iconos"><span class="cumplio-despues" title="cumplio-despues"></span><p>cumplio-despues</p></div>
-        </div>
+        </section>
 
-        <div class="contenedor-files">
-            <div class="iconos"><span class="file-audio" title="file-audio"></span><p>file-audio</p></div>
-            <div class="iconos"><span class="file-doc" title="file-doc"></span><p>file-doc</p></div>
-            <div class="iconos"><span class="file-email" title="file-email"></span><p>file-email</p></div>
-            <div class="iconos"><span class="file-img" title="file-img"></span><p>file-img</p></div>
-            <div class="iconos"><span class="file-pdf" title="file-pdf"></span><p>file-pdf</p></div>
-            <div class="iconos"><span class="file-pps" title="file-pps"></span><p>file-pps</p></div>
-            <div class="iconos"><span class="file-rar" title="file-rar"></span><p>file-rar</p></div>
-            <div class="iconos"><span class="file-video" title="file-video"></span><p>file-video</p></div>
-            <div class="iconos"><span class="file-x" title="file-x"></span><p>file-x</p></div>
-            <div class="iconos"><span class="file-xls" title="file-xls"></span><p>file-xls</p></div>
-            <div class="iconos"><span class="file-zip" title="file-zip"></span><p>file-zip</p></div>
-        </div>
+        </main>
 
     </body>
 </html>
