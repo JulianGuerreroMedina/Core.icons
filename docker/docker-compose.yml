@@ -1,0 +1,11 @@
+name: coreicons
+
+services:
+  coreicons:
+    container_name: coreicons
+    image: httpd:alpine
+    restart: unless-stopped
+    volumes:
+      - ../:/usr/local/apache2/htdocs/
+    ports:
+      - '8014:80'

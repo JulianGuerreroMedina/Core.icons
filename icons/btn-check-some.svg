@@ -41,21 +41,18 @@
     <g
        id="g1202"
        transform="matrix(0.66827117,0,0,0.66827098,36.889545,-246.66861)"
-       inkscape:export-filename="/home/julian_guerrero/g1202.png"
        inkscape:export-xdpi="16.969999"
        inkscape:export-ydpi="16.969999">
       <path
          id="path854"
          style="fill:#008000;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          d="m -51.534535,369.11465 c -2.031545,0 -3.666926,1.63539 -3.666926,3.66694 v 34.5653 c 0,2.03154 1.635381,3.66693 3.666926,3.66693 h 34.565306 c 2.031539,0 3.666926,-1.63539 3.666926,-3.66693 v -34.5653 c 0,-2.03155 -1.635387,-3.66694 -3.666926,-3.66694 z m 3.524947,5.90884 h 27.515406 c 0.683604,0 1.234172,0.55057 1.234172,1.23417 v 27.61315 c 0,0.68361 -0.550568,1.23386 -1.234172,1.23386 h -27.515406 c -0.683598,0 -1.234172,-0.55025 -1.234172,-1.23386 v -27.61315 c 0,-0.6836 0.550574,-1.23417 1.234172,-1.23417 z"
-         inkscape:export-filename="/home/julian_guerrero/btn-uncheck.png"
          inkscape:export-xdpi="19.398952"
          inkscape:export-ydpi="19.398952" />
       <path
          id="path1061"
          style="fill:#008000;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          d="m -43.738968,378.56423 c -1.115196,0 -2.012913,0.89773 -2.012913,2.01292 v 18.97417 c 0,1.11518 0.897717,2.01291 2.012913,2.01291 h 18.974175 c 1.115187,0 2.012911,-0.89773 2.012911,-2.01291 v -18.97417 c 0,-1.11519 -0.897724,-2.01292 -2.012911,-2.01292 z"
-         inkscape:export-filename="/home/julian_guerrero/btn-uncheck.png"
          inkscape:export-xdpi="19.398952"
          inkscape:export-ydpi="19.398952"
          sodipodi:nodetypes="sssssssss" />
