@@ -456,6 +456,12 @@
       "asset": "icons/ico-php.svg",
       "category": "icons",
       "format": "svg"
+    },      
+    {
+      "class": "mariadb",
+      "asset": "icons/mariadb.svg",
+      "category": "icons",
+      "format": "svg"
     },
     {
       "class": "default-avatar",
@@ -530,10 +536,34 @@
       "format": "svg"
     },
     {
+      "class": "sendmail",
+      "asset": "icons/sendmail.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
       "class": "id-user",
       "asset": "icons/id-user.svg",
       "category": "icons",
       "format": "svg"
+    },
+    {
+      "class": "filetype-pdf",
+      "asset": "icons/filetype-pdf.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+  {
+      "class": "filetype-xml",
+      "asset": "icons/filetype-xml.svg",
+      "category": "icons",
+      "format": "svg"
+    },
+    {
+      "class": "filetype-xls",
+      "asset": "icons/filetype-xls.png",
+      "category": "icons",
+      "format": "png"
     }
   ]
 }

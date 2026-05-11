@@ -95,6 +95,7 @@
 .ico-loading{display:inline-block; width:32px; height: 32px; background: url(icons/ico-loading.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 .pc-display{display: inline-block; width:22px; height: 22px; background: url(icons/pc-display.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .ico-php{display: inline-block; width:41px; height: 22px; background: url(icons/ico-php.svg) no-repeat center center; background-size: 41px 22px; margin:0px 2px;}
+.mariadb{display: inline-block; width:41px; height: 22px; background: url(icons/mariadb.svg) no-repeat center center; background-size: 41px 22px; margin:0px 2px;}
 .default-avatar{display: inline-block; width:50px; height: 50px; background: url(icons/default-avatar.svg) no-repeat center center; background-size: 50px 50px; border-radius: 14px; margin:0px 2px;}
 .ico-cake{display: inline-block; width:22px; height: 22px; background: url(icons/ico-cake.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
@@ -112,4 +113,12 @@
 .geo-alt-fill{display: inline-block; width:22px; height: 22px; background: url(icons/geo-alt-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
 .telephone-fill{display: inline-block; width:22px; height: 22px; background: url(icons/telephone-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
 .whatsapp{display: inline-block; width:22px; height: 22px; background: url(icons/whatsapp.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
+
+.sendmail{display: inline-block; width:22px; height: 22px; background: url(icons/sendmail.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
+
 .id-user{display: inline-block; width:22px; height: 22px; background: url(icons/id-user.svg) no-repeat center center; background-size: 22px 22px; margin:0px 0px;}
+
+
+.filetype-pdf{display: inline-block; width:22px; height: 22px; background: url(icons/filetype-pdf.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.filetype-xls{display: inline-block; width:22px; height: 22px; background: url(icons/filetype-xls.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.filetype-xml{display: inline-block; width:22px; height: 22px; background: url(icons/filetype-xml.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
